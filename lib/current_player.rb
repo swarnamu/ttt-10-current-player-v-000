@@ -5,6 +5,6 @@ def turn_count(board)
     if move_count = "X" || move_count = "O"
       counter += 1
     end
-
   end
+move_counts.length
 end
