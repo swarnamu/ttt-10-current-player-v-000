@@ -4,7 +4,8 @@ def turn_count(board)
   board.each do |move_count|
     if move_count = "X" || move_count = "O"
       counter += 1
+      move_counts.length
     end
   end
-move_counts.length
+
 end
